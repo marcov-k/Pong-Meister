@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a8a2e732851642b91a1bddadb2d97, type: 3}
+  m_Name: Stick
+  m_EditorClassIdentifier: 
+  upgradeName: Sticky Walls
+  description: Ball will lose speed whenever it bounces off a wall.
+  tag: stick
+  abilityIndex: 0
+  price: 11
+  pingBonus: 2
+  cooldown: 0
+  upgradeNumber: 2
+  icon: {fileID: 3538193398995165420, guid: 39e7bd98d9ec51349a77d513b35c7832, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a8a2e732851642b91a1bddadb2d97, type: 3}
+  m_Name: Slow
+  m_EditorClassIdentifier: 
+  upgradeName: Slow Motion
+  description: Temporarily decrease the speed of the ball via LMB. Duration of 2
+    sec and cooldown of 10 sec.
+  tag: slow
+  abilityIndex: 1
+  price: 46
+  pingBonus: 5
+  cooldown: 10
+  upgradeNumber: 5
+  icon: {fileID: -1630426966384120657, guid: 9ee6c56372d01db4498d5f7b276e20f9, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a8a2e732851642b91a1bddadb2d97, type: 3}
+  m_Name: Slip
+  m_EditorClassIdentifier: 
+  upgradeName: Slippery Walls
+  description: Ball will gain speed each time it bounces off a wall.
+  tag: slip
+  abilityIndex: 0
+  price: 11
+  pingBonus: 2
+  cooldown: 0
+  upgradeNumber: 2
+  icon: {fileID: -6329382053374263329, guid: 8cc2b70d54799354d8a88ab5ea55f179, type: 3}

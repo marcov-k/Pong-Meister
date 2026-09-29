@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a8a2e732851642b91a1bddadb2d97, type: 3}
+  m_Name: Move
+  m_EditorClassIdentifier: 
+  upgradeName: 2D Movement
+  description: Paddle can be moved horizontally via moving the mouse left and right.
+  tag: move
+  abilityIndex: 0
+  price: 7
+  pingBonus: 2
+  cooldown: 0
+  upgradeNumber: 1
+  icon: {fileID: -715392506728605010, guid: 41548de124add9b468834e08edcb95b4, type: 3}

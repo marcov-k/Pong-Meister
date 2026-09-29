@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a8a2e732851642b91a1bddadb2d97, type: 3}
+  m_Name: Inertia
+  m_EditorClassIdentifier: 
+  upgradeName: Inertia
+  description: Ball's speed will be affected by the movement of the paddle when bouncing.
+  tag: inertia
+  abilityIndex: 0
+  price: 74
+  pingBonus: 6
+  cooldown: 0
+  upgradeNumber: 6
+  icon: {fileID: -2077575478492846824, guid: 36fd5e4f14d9ae54fa65ef77038b534a, type: 3}

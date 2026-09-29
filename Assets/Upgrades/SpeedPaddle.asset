@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a8a2e732851642b91a1bddadb2d97, type: 3}
+  m_Name: SpeedPaddle
+  m_EditorClassIdentifier: 
+  upgradeName: Paddle Speed-Up
+  description: Temporarily increase the speed of the paddle via the "E" key. Duration
+    of 1 sec and cooldown of 10 sec.
+  tag: speedp
+  abilityIndex: 2
+  price: 189
+  pingBonus: 11
+  cooldown: 10
+  upgradeNumber: 8
+  icon: {fileID: -2932439058398084149, guid: dd5e7ea00e9ee7843a20f27c220ddd66, type: 3}

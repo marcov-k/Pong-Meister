@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1a8a2e732851642b91a1bddadb2d97, type: 3}
+  m_Name: TeleportEnemy
+  m_EditorClassIdentifier: 
+  upgradeName: Teleport Opponent
+  description: Teleport the opponent vertically via the "Q" key. Cooldown of 15 sec.
+  tag: teleporte
+  abilityIndex: 4
+  price: 483
+  pingBonus: 18
+  cooldown: 15
+  upgradeNumber: 10
+  icon: {fileID: -7590225738043456779, guid: d37deb74e6ade9f4b99abf896e9f14c2, type: 3}
